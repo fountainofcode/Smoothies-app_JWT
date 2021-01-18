@@ -1,0 +1,7 @@
+express,
+ejs,
+mongoose, mongoose Hooks,
+validator (model field validator),
+bcrypt,
+cookie-parser,
+jsonwebtoken
